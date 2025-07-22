@@ -1,0 +1,13 @@
+../Core/Src/main.c:78:5:main	3
+../Core/Src/main.c:138:6:SystemClock_Config	3
+../Core/Src/main.c:179:13:MX_ADC1_Init	3
+../Core/Src/main.c:238:13:MX_TIM3_Init	4
+../Core/Src/main.c:287:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:333:13:MX_DMA_Init	1
+../Core/Src/main.c:351:13:MX_GPIO_Init	1
+../Core/Src/main.c:394:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:404:6:set_tx_mux_chan	1
+../Core/Src/main.c:411:6:set_rx_mux_chan	1
+../Core/Src/main.c:422:6:clear_peak_detect	1
+../Core/Src/main.c:430:6:set_tx	2
+../Core/Src/main.c:444:6:Error_Handler	1
